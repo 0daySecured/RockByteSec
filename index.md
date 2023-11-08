@@ -8,7 +8,7 @@
 layout: page
 ---
 
-# <center> 💎 Security Over The Rocks 💎 </center><br>
+
 
 ***
 
