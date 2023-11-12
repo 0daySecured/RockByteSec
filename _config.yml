@@ -18,9 +18,9 @@ plugins:
 
 minima:
   social_links:
-    - { platform: x, user_url: "https://x.com/0daySecured"}
-    - { platform: instagram, user_url: "https://www.instagram.com/realmehulpanchal"}
-    - { platform: github, user_url: "https://www.github.com/0daySecured"}
+    - { platform: x, user_url: ""}
+    - { platform: instagram, user_url: ""}
+    - { platform: github, user_url: ""}
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
