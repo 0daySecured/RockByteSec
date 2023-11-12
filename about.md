@@ -18,4 +18,4 @@ Mehul Panchal is a CyberSecurity professional working in the industry for more t
 - Mobile Applications
 - Thick Clients
 
-Free free to check out the social links at the bottom of the page.
+Feel free to check out the social links at the bottom of the page.
