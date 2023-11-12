@@ -54,3 +54,8 @@ google_analytics: G-MKW253DLZ8
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+
+social_links:
+  - { platform: x, user_url: "https://x.com/0daySecured"}
+  - { platform: instagram, user_url: "https://www.instagram.com/realmehulpanchal"}
+  - { platform: github, user_url: "https://www.github.com/0daySecured"}
