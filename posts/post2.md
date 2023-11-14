@@ -22,6 +22,3 @@ Maintaining a healthy wordlist is the key to success of a penetration test. To d
 
 
 This is a good way to have a wordlist for your penetration tests. With each penetration test you perform, your master wordlist is going to get stronger and stronger. Now for wordlist of passwords, you can use a common password wordlist from the internet as an input to AltDNS would result in a great wordlist.
-
-
-Subscribe for more tips!
