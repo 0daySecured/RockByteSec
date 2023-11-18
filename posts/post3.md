@@ -39,3 +39,6 @@ Finding vulnerabilities becomes so much easier when you have a complete map of t
 
 ## 5. Finding the Vulnerabilities
 If you have done all the above steps correctly, then you'll be automatically figuring out the possibilities of vulnerabilities.
+
+
+> As this is just an overview of WhiteBox Pentest, I'll going over every step in detail. Stay Tuned!
