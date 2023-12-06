@@ -1,19 +1,14 @@
 ---
-layout: home
+layout: page
 title: Blog
 ---
 
-
-***
-
-# → [Top 7 CyberSecurity Tips for Web Developers by a seasoned Penetration Tester](/posts/post1)
-
-***
-
-# → [Ultimate and Simple Guide to Wordlists](/posts/post2.md)
-
-***
-
-# → [Guide to WhiteBox Pentest](/posts/post3.md)
-
-***
+{% for category in site.categories %}
+  <div>
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul></div>
+{% endfor %}

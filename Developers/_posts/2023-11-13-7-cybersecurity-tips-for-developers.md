@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top 7 CyberSecurity Tips for Web Developers by a Seasoned Penetration Tester
+title: 7 CyberSecurity Tips for Developers
 ---
 
 
