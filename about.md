@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-As the information is free out there on the internet, I only post content related to CyberSecurity and Computer Science that will genuinely help you throughout your career as a CyberSecurity Professional, a Student, a Software Engineer/Developer or a Network Engineer. All content on this blog will help you understand how to use the free information to your advantage.
+As the information is free out there on the internet, I only post content related to CyberSecurity and Computer Science that will genuinely help you throughout your career as a Software Engineer/Developer, a CyberSecurity Professional, a Student, or a Network Engineer. All content on this blog will help you understand how to use the free information to your advantage.
 
 
 ### About the Founder of the blog:
