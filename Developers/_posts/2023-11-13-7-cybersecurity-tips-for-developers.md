@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: splash
 title: 7 CyberSecurity Tips for Developers
+header:
+  overlay_color: "#000000"
+excerpt: ""
 ---
 
 

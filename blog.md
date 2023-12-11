@@ -1,14 +1,4 @@
 ---
-layout: page
+layout: categories
 title: Blog
 ---
-
-{% for category in site.categories %}
-  <div>
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul></div>
-{% endfor %}
