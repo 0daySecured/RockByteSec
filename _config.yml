@@ -14,7 +14,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
-repository: 0daysecured/0daysecured.github.io
+repository: 0daySecured/RockByteSec
 
 google_analytics: G-MKW253DLZ8
 
